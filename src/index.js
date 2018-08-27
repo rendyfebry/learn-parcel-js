@@ -1,6 +1,8 @@
 import React from "react";
 import { render } from "react-dom";
 
+import "./sass/main.scss";
+
 const App = () => {
   return (
     <div>
